@@ -18,4 +18,4 @@ zahl = int(z)
 
 # Ausgabe
 print("Ihre Eingabe:", z)
-print("Das Erbenis:", c)
+print("Das Ergebnis:", c)
